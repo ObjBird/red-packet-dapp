@@ -1,0 +1,20 @@
+{
+  "name": "red-packet-dapp",
+  "version": "1.0.0",
+  "description": "基于以太坊的去中心化红包系统",
+  "main": "src/App.jsx",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "ethers": "^6.7.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.0",
+    "vite": "^4.0.0"
+  }
+}
